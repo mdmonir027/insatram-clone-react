@@ -4,11 +4,11 @@ You will find the visual in here! [Visit Now](https://instagram-clone-react-6f94
 
 # Follow the steps one by one
 
-### yarn install / npm install
+### 1.yarn install / npm install
 
 It will install all required dependencies.
 
-### 2. Rename the`.env.example`file to`.env` and fill all empty field
+### 2. Rename the `.env.example` file to `.env` and fill all empty field
 
 ```
 REACT_APP_FIRBASE__API__KEY=""
@@ -23,8 +23,11 @@ REACT_APP_FIRBASE__MEASUREMENT_ID=""
 ## Developed By
 
 Name: [Md Monir][website]
+
 Title: Web Developer
+
 Email: mmislam027@gmail.com
+
 [Facebook][facebook] [Instagram][instagram] [GitHub][github] [LinkedIn][linkedin]
 
 [website]: https://mdmonir-portfolio.web.app/
