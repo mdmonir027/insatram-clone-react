@@ -8,7 +8,7 @@ You will find the visual in here! [Visit Now](https://instagram-clone-react-6f94
 
 It will install all required dependencies.
 
-### `2. Rename the`.env.example`file to`.env` and fill all all empty field`
+### `2. Rename the`.env.example`file to`.env` and fill all empty field`
 
 ```
 REACT_APP_FIRBASE__API__KEY=""
