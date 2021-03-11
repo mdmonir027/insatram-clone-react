@@ -1,0 +1,22 @@
+.addNewPost{
+    background: #fff;
+    flex: 0 0 100%;
+
+}
+
+.addNewPost__container{
+  max-width: 500px;
+}
+
+.addNewPost__form {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  padding: 10px 0;
+
+}
+
+.addNewPost__form > * {
+  margin: 10px 0;
+}

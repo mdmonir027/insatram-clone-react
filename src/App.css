@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background: #fafafa;
+}
+
+.app__header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 15px 20px 5px 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.app__headerImage {
+  background-color: #fff;
+  object-fit: contain;
+}
+
+
+.app_posts{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*  modal */
+
+.mymodal__signUpForm{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.mymodal__signUpForm button{
+  margin-top: 15px;  
+}
+
+
+.mymodal__formControll{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
